@@ -6,7 +6,7 @@
 
 ## How I work
 * Product is always the same few questions: What's our unfair advantage, What's the real problem, Why is it important, How fast can we test it? **Agents don't change that, they accelerate it.**
-* Empathy, communication and relentless curiousity are the secret to everything.
+* Empathy, communication and relentless curiosity are the secret to everything.
 * It is totally possible to love your job, treat people right, have fun at work, and deliver incredible results all at the same time. It comes from putting people at the centre of everything. 
 * There is great value in human creativity and ingenuity.
 
