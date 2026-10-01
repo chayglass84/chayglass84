@@ -2,7 +2,7 @@
 
 10 years leading products, four 0->1 wins each reaching seven figure revenue, backed by 10 years as a tech lead & engineer. **My strengths and passion: Help people build software that helps people.** Best and happiest in 1->10 roles. 
 
-[Resume](resume.md) · [LinkedIn](https://www.linkedin.com/in/chayglass/) · chayglass@gmail.com
+[Resume](https://github.com/chayglass84/chayglass84/blob/main/resume.md) · [LinkedIn](https://www.linkedin.com/in/chayglass/) · chayglass@gmail.com
 
 ## How I work
 * Product is always the same few questions: What's our unfair advantage, What's the real problem, Why is it important, How fast can we test it? **Agents don't change that, they accelerate it.**
@@ -14,9 +14,7 @@
 
 ### insomnia_cam_prototypes
 
-A fork of Kong's open-source Insomnia (Apache 2.0). I built working prototypes of the competing product bets instead of writing PRDs: [agent-friendly CLI, MCP client, Kong Gateway integration]. The team and execs aligned on the new strategy in 3 weeks.
-
-Hard to run, and you don't need to. 
+A fork of Kong's open-source Insomnia (Apache 2.0). I built working prototypes of the greenfield product bets instead of writing PRDs: (agent-friendly CLI, MCP client, Kong Gateway integration). The team and execs aligned on the new strategy in 3 weeks. 
 
 ### insomnia-airlines-api
 
