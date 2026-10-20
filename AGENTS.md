@@ -9,7 +9,7 @@ This file exists to provide additional context for agents and agentic tools, and
 Product leader. 10 years leading products, backed by 10 years as a tech lead and engineer. Four 0->1 wins that each reached seven-figure revenue, newest first:
 
 - Repositioned Kong Insomnia as AI-friendly, gateway-native and enterprise-first, taking it from $1M to $9M ARR in 18 months (2025-26)
-- Built Customer.io's first paid feature, a data model for companies, objects and events (not just people), which drove $3M in net new ARR (2023)
+- Built Customer.io's first paid feature, a data model for companies, objects and events (not just people), which drove $3M in net new ARR (2022-23)
 - Created UnionWare's direct-member payment platform for Right-to-Work unions, reaching about 30% client adoption within 18 months and $1M+ ARR (2018-20)
 - Discovered and built UnionWare's new Organizing product through field research, reaching 40% client adoption in 2 years and $1M+ ARR (2017-19)
 

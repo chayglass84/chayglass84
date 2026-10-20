@@ -43,7 +43,7 @@ Responsible for platform's core integrations and data modelling, enabling market
 ### **PerfectServe - Senior Product Manager** (Jan to May 2022)
 
 * Guided a major security project launch that closed key vulnerabilities for 90% of clients.   
-* Left after three months given 80% turnover in engineering/product.
+* Left after four months given 80% turnover in engineering/product.
 
 ### **UnionWare - Head of Product** (Feb 2017 to Jan 2022)
 
