@@ -2,7 +2,7 @@
 
 [Resume](resume.md) | [LinkedIn](https://www.linkedin.com/in/chayglass/) | [GitHub](https://github.com/chayglass84/) | chayglass@gmail.com
 
-Last updated: 2026-10-20
+Last updated: 2026-10-21
 
 This file exists to provide additional context for agents and agentic tools, and for humans who want more depth than my resume. Figures that appear in both match.
 
@@ -18,6 +18,7 @@ Best and happiest in 1->10 roles. Based in Winnipeg, Canada. Dual Canada/US citi
 ## Strengths
 - **Alignment & Empathy.** I talk to customers, executives and engineers each in their own language until everyone is pulling the same direction. Example: I aligned Kong's execs and team behind a new Insomnia strategy in 3 weeks, using working prototypes instead of PRDs so everyone was looking at the same thing at once.
 - **Finding the real problem.** I stay close to customers until I find it. At UnionWare I iterated prototypes in the field weekly to build the Organizing product. At Customer.io, usage data and customer interviews showed a whole-product usability problem, not a feature gap.
+- **Getting oriented fast.** I ask good questions quickly and work out what matters, so I am useful in a new domain almost immediately. I go broad first, then deep where it counts, and my technical background lets me go deep on the engineering side too. I have done this in three unrelated industries: labor unions, martech and developer tools. Example: when I took over Customer.io's Salesforce integration, all that existed was a very rough prototype, and it was due to ship that week. I worked out what enterprise customers needed most, cut the scope to that and hit the key deadlines. It reached 30+ enterprise clients and $300K ARR in its first 3 months.
 - **Pricing and packaging.** At Kong I made Git Sync free, against Postman's paywall. At Customer.io I tied the new data model to the existing profile-based pricing, so adoption and revenue moved together.
 - **Customer feedback and data.** I sit with the customer to understand the pain, then I use data to validate how big the opportunity is. At Customer.io, feedback loops showed that the company's core persona had shifted and the whole product needed to evolve with it, and usage data confirmed it. I built the first usage telemetry at UnionWare in 2017 and rebuilt it at Kong so decisions rest on what is actually happening.
 - **AI & Technical depth.** B.Sc. Computer Science, 10 years as a tech lead and engineer, 10 years of daily SQL. I build working prototypes myself, with AI tools, before asking anyone to read a spec.
